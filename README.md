@@ -2,7 +2,9 @@ English | [简体中文](./README-cn.md)
 
 # mook
 
-easy to learn, no sample code, no useless render, global sharing of react state
+easy to learn, no sample code, no useless render, global sharing of react state. 
+
+inspired by hox.
 
 ## Install
 
