@@ -7,9 +7,9 @@ easy to learn, no sample code, no useless render, global sharing of react state
 ## Install
 
 ```bash
-yarn add hox
+yarn add @acte/mook
 # Or
-npm install --save hox
+npm install --save @acte/mook
 ```
 
 ## Quick Start
