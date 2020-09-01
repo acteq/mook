@@ -1,6 +1,6 @@
 {
   "name": "@acte/mook",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
@@ -8,6 +8,18 @@
   "description": "React store with hooks.",
   "license": "MIT",
   "private": false,
+  "keywords":[
+    "react", "state", "store", "hook"
+  ],
+  "homepage": "https://github.com/acteq/mook",
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/acteq/mook.git"
+  },
+  "author": {
+    "name": "acte",
+    "email": "acte@foxmail.com"
+  },
   "scripts": {
     "clean": "rimraf lib dist es coverage",
     "test": "jest",
